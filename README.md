@@ -4,6 +4,8 @@ Programming assignments for [Beginning C++ Programming - From Beginner to Beyond
 <br>
 <br>
 
+Section 4 - Getting Started
+Section 5 - Structure of a C++ Program
 Section 6 - Variables and Constants<br>
 Section 7 - Arrays and Vectors<br>
 Section 8 - Statements and Operators<br>
